@@ -16,9 +16,8 @@ Endpoint1 auth_ticket:
 Endpoint2 url (i.e. 'http(s)://api-wpm2.apicasystem.com'):
 Endpoint2 auth_ticket:
 
-An iteration of old check info and new check info will start displaying. 
-
-3. Begin Test 
-You can review log.txt and checks_output.csv for more info. 
+3. Begin Test
+An iteration of old check info and new check info will start displaying until complete.
+You can also review log.txt and checks_output.csv for more info. 
 
 #### checks_output.csv - displays old check info and new check info in csv format
